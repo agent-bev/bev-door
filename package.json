@@ -1,6 +1,6 @@
 {
   "name": "@agent-bev/mcp-server",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Agentic B2B hub for beer, wine and spirits across Europe.",
   "keywords": ["drinks", "beverage", "beverage-alcohol", "wine", "beer", "spirits", "cider", "b2b", "procurement", "agentic-commerce", "europe", "mcp"],
   "homepage": "https://agent-bev.ai",

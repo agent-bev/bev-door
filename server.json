@@ -17,7 +17,18 @@
     "url": "https://github.com/agent-bev/bev-door",
     "source": "github"
   },
-  "version": "0.2.1",
+  "version": "0.2.2",
+  "packages": [
+    {
+      "registryType": "npm",
+      "registryBaseUrl": "https://registry.npmjs.org",
+      "identifier": "@agent-bev/mcp-server",
+      "version": "0.2.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",

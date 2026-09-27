@@ -5,7 +5,7 @@
 import { createInterface } from "node:readline";
 
 const URL = process.env.AGENT_BEV_URL || "https://mcp.bev-buyer.ai/mcp";
-const UA = "agent-bev-mcp-server/0.2.0 (+https://agent-bev.ai)";
+const UA = "agent-bev-mcp-server/0.2.1 (+https://agent-bev.ai)";
 const rl = createInterface({ input: process.stdin, crlfDelay: Infinity });
 // No forced exit: when stdin closes and the last answer is written, Node exits on its own (a forced exit while a fetch socket is
 // closing trips a libuv assertion on Windows).
