@@ -10,8 +10,7 @@ agent-bev is the artificial intelligence (AI) Agent business-to-business
 server where a buyer's AI Agent searches every catalogue on the hub
 at once, compares products, finds the maker and gets where to order.
 Powered by CUVEE, the agentic commerce algorithm for the beverage
-alcohol sector. Trade only, never to consumers. Free for all agents
-before version 1.0.
+alcohol sector. Trade only, never to consumers.
 
 Live nodes: Spain, France (Italy landing).
 
