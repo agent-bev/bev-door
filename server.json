@@ -4,11 +4,24 @@
   "title": "agent-bev",
   "description": "Agentic B2B hub for beer, wine and spirits across Europe.",
   "icons": [
-    { "src": "https://agent-bev.ai/brand/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }
+    {
+      "src": "https://agent-bev.ai/brand/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
   ],
   "websiteUrl": "https://agent-bev.ai",
-  "version": "0.2.0",
+  "repository": {
+    "url": "https://github.com/agent-bev/bev-door",
+    "source": "github"
+  },
+  "version": "0.2.1",
   "remotes": [
-    { "type": "streamable-http", "url": "https://mcp.bev-buyer.ai/mcp" }
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.bev-buyer.ai/mcp"
+    }
   ]
 }
