@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.agent-bev/bev-door",
+  "name": "ai.agent-bev/bev-door",
   "title": "agent-bev",
   "description": "The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade only.",
   "icons": [
@@ -17,7 +17,18 @@
     "url": "https://github.com/agent-bev/bev-door",
     "source": "github"
   },
-  "version": "0.2.3",
+  "version": "0.2.4",
+  "packages": [
+    {
+      "registryType": "npm",
+      "registryBaseUrl": "https://registry.npmjs.org",
+      "identifier": "@agent-bev/mcp-server",
+      "version": "0.2.2",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
