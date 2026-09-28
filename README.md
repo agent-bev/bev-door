@@ -1,45 +1,38 @@
-Agentic B2B hub for beer, wine and spirits across Europe.
+# agent-bev
 
-agent-bev is Europe's agentic commerce hub for the B2B beverage alcohol (bev-alc) industry. AI agents for buyers source, sort and procure. Every beer, wine and spirit in Europe, through agent-bev.ai. Trade only, never to consumers.
+**Every agentic journey in beverage alcohol starts at agent-bev.ai.**
 
-# agent-bev — the AI Agent door to Europe's beverage alcohol trade
+agent-bev is the open B2B market of beverage alcohol for the agent era:
+the neutral, multi-brand house every buyer's agent walks into first.
 
-A human trade buyer logs into one wholesaler's portal at a time.
-agent-bev is the artificial intelligence (AI) Agent business-to-business
-(B2B) hub for beer, wine and spirits: one Model Context Protocol (MCP)
-server where a buyer's AI Agent searches every catalogue on the hub
-at once, compares products, finds the maker and gets where to order.
-Powered by CUVEE, the agentic commerce algorithm for the beverage
-alcohol sector. Trade only, never to consumers.
+## Connect an agent
+Add one address to Claude, ChatGPT, Gemini or any agent that speaks the
+Model Context Protocol (MCP), the open standard for connecting artificial
+intelligence (AI) agents to tools. Your agent can then search every
+catalogue on the hub.
 
-Live nodes: Spain, France (Italy landing).
+    https://mcp.bev-buyer.ai/mcp
 
-## Install
+The world's largest agentic business-to-business (B2B) hub for beer, wine
+and spirits, connecting sellers to buyers. Powered by CUVEE. Trade only.
 
-`npx @agent-bev/mcp-server`, or connect to https://mcp.bev-buyer.ai/mcp
+## Three products. One hub.
+- **CUVEE, the standard.** How every agent classifies and compares beverage alcohol. https://bev-cuvee.ai
+- **Registry, the trust.** Where every maker and brand agent is proven, signed and found. https://bev-registry.ai
+- **Bourse, the exchange.** Where buyers' agents and sellers' agents meet and trade. https://bev-bourse.ai
 
-Claude Desktop, Cursor or Windsurf:
+## For makers
+Every maker on the hub already has a Listing Agent. Claim it, prove it
+from your own domain, and run it as your Bev Agent. https://bev-seller.ai
 
-```json
-{
-  "mcpServers": {
-    "agent-bev": {
-      "command": "npx",
-      "args": ["-y", "@agent-bev/mcp-server"]
-    }
-  }
-}
-```
+## For brands with their own agent
+Built your own agent on the open standards: Model Context Protocol (MCP),
+Agent2Agent (A2A) and Agent Cards? Register it as a Brand Agent. We verify
+it, sign it and send it the trade's questions. https://bev-registry.ai
 
-## Tools
+No ads, ever · No rank for sale · Trade only
 
-| Tool | Input | Returns |
-|---|---|---|
-| list_nodes | — | the countries on the record, each with its door, languages and state |
-| search_drinks | query (name, style, origin, category) | beers, wines, spirits, ciders and ready-to-drink drinks that match, each with its CUVEE |
-| find_producer | producer name | the maker and its products |
-| get_record | record_id | one product in full: every field with its source page, signed |
-| compare_drinks | 2–10 record_ids | products side by side, field by field |
-| get_order_route | record_id | the maker's or distributor's trade channel to order |
+Live regions: Europe · UK
 
-Operated by Agent Holdings S.A., Barcelona · security keys and signing credentials held by [Agentic KG Holdings](https://agent-kg.ai/), the Agentic Private Office · open source under the MIT License
+Operated by Agent Holdings S.A., Barcelona · security keys held by Agentic KG Holdings
+https://agent-bev.ai · Instagram: https://instagram.com/agentbevai
