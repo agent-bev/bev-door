@@ -32,7 +32,7 @@ it, sign it and send it the trade's questions. https://bev-registry.ai
 
 No ads, ever · No rank for sale · Trade only
 
-Live regions: Europe · UK · USA
+Live regions: Europe · UK · USA · Japan · Australia · Korea · Singapore · Thailand · Mexico · Brazil
 
 Operated by Agent Holdings S.A., Barcelona · security keys held by Agentic KG Holdings
 https://agent-bev.ai · Instagram: https://instagram.com/agentbevai
