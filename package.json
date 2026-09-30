@@ -2,15 +2,48 @@
   "name": "@agent-bev/mcp-server",
   "version": "0.2.5",
   "description": "The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade only.",
-  "keywords": ["mcp", "mcp-server", "model-context-protocol", "ai-agents", "agentic-commerce", "b2b", "wine", "beer", "spirits", "beverage-alcohol", "wholesale", "drinks-trade", "procurement", "europe", "spain", "france", "italy", "cuvee"],
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "ai-agents",
+    "agentic-commerce",
+    "b2b",
+    "wine",
+    "beer",
+    "spirits",
+    "beverage-alcohol",
+    "wholesale",
+    "drinks-trade",
+    "procurement",
+    "europe",
+    "spain",
+    "france",
+    "italy",
+    "cuvee"
+  ],
   "homepage": "https://agent-bev.ai",
-  "bugs": { "email": "mcp@agent-bev.ai" },
-  "repository": { "type": "git", "url": "https://github.com/agent-bev/bev-door" },
+  "bugs": {
+    "email": "mcp@agent-bev.ai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agent-bev/bev-door.git"
+  },
   "license": "MIT",
   "author": "Agent Holdings S.A. (https://agent-bev.ai)",
   "mcpName": "ai.agent-bev/bev-door",
   "type": "module",
-  "bin": { "agent-bev-mcp": "bin/agent-bev-mcp.js" },
-  "files": ["bin/", "README.md", "LICENSE"],
-  "engines": { "node": ">=18" }
+  "bin": {
+    "agent-bev-mcp": "bin/agent-bev-mcp.js"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "bin/agent-bev-mcp.js",
+    "package.json"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
 }
