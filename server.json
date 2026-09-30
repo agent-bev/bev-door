@@ -17,13 +17,13 @@
     "url": "https://github.com/agent-bev/bev-door",
     "source": "github"
   },
-  "version": "0.2.4",
+  "version": "0.2.5",
   "packages": [
     {
       "registryType": "npm",
       "registryBaseUrl": "https://registry.npmjs.org",
       "identifier": "@agent-bev/mcp-server",
-      "version": "0.2.2",
+      "version": "0.2.5",
       "transport": {
         "type": "stdio"
       }

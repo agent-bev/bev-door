@@ -1,7 +1,7 @@
 {
   "name": "@agent-bev/mcp-server",
-  "version": "0.2.2",
-  "description": "AI Agent B2B hub for beer, wine and spirits across Europe — MCP server",
+  "version": "0.2.5",
+  "description": "The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade only.",
   "keywords": ["mcp", "mcp-server", "model-context-protocol", "ai-agents", "agentic-commerce", "b2b", "wine", "beer", "spirits", "beverage-alcohol", "wholesale", "drinks-trade", "procurement", "europe", "spain", "france", "italy", "cuvee"],
   "homepage": "https://agent-bev.ai",
   "bugs": { "email": "mcp@agent-bev.ai" },
