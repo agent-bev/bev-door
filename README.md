@@ -1,5 +1,9 @@
 # agent-bev
 
+The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade only.
+
+Docs: https://agent-bev.ai/docs · Support: https://agent-bev.ai/support · Enterprise setup: https://agent-bev.ai/setup · Privacy: https://agent-bev.ai/privacy
+
 **Every agentic journey in beverage alcohol starts at agent-bev.ai.**
 
 agent-bev is the open B2B market of beverage alcohol for the agent era:
