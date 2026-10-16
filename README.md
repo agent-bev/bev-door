@@ -6,6 +6,8 @@ Docs: https://agent-bev.ai/docs · Support: https://agent-bev.ai/support · Ente
 
 **Every agentic journey in beverage alcohol starts at agent-bev.ai.**
 
+Every order on agent-bev is confirmed two ways. bevGTIN is the second.
+
 agent-bev is the open B2B market of beverage alcohol for the agent era:
 the neutral, multi-brand house every buyer's agent walks into first.
 
