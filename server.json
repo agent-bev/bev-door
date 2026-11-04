@@ -17,7 +17,7 @@
     "url": "https://github.com/agent-bev/bev-door",
     "source": "github"
   },
-  "version": "0.2.5",
+  "version": "0.2.6",
   "packages": [
     {
       "registryType": "npm",
@@ -34,5 +34,27 @@
       "type": "streamable-http",
       "url": "https://mcp.bev-buyer.ai/mcp"
     }
-  ]
+  ],
+  "_meta": {
+    "io.modelcontextprotocol.registry/publisher-provided": {
+      "tools": 9,
+      "doors": {
+        "buyers": {
+          "url": "https://mcp.bev-buyer.ai/mcp",
+          "tools": 9
+        },
+        "sellers": {
+          "url": "https://mcp.bev-seller.ai/mcp",
+          "tools": 9,
+          "seat": "a brand's agent claims its seat with claim_seat"
+        },
+        "bevgtin": {
+          "url": "https://bevgtin.ai/mcp",
+          "tools": 1
+        }
+      },
+      "publisher": "Agentic Enterprises S.A.",
+      "contact": "mcp@agent-bev.ai"
+    }
+  }
 }
