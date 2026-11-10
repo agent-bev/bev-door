@@ -17,7 +17,7 @@
     "url": "https://github.com/agent-bev/bev-door",
     "source": "github"
   },
-  "version": "0.2.7",
+  "version": "0.2.8",
   "packages": [
     {
       "registryType": "npm",
@@ -49,8 +49,12 @@
           "seat": "a brand's agent claims its seat with claim_seat"
         },
         "bevgtin": {
-          "url": "https://bevgtin.ai/mcp",
+          "url": "https://gtin-bev.ai/mcp",
           "tools": 1
+        },
+        "library": {
+          "url": "https://mcp.bev-cuvee.org/mcp",
+          "tools": 2
         }
       },
       "publisher": "Agentic Enterprises S.A.",
