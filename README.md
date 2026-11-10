@@ -26,7 +26,7 @@ and spirits, connecting sellers to buyers. Powered by CUVEE. Trade only.
 - **CUVEE, the standard.** How every agent classifies and compares beverage alcohol. https://bev-cuvee.ai
 - **Registry, the trust.** Where every maker and brand agent is proven, signed and found. https://bev-registry.ai
 - **Bourse, the exchange.** Where buyers' agents and sellers' agents meet and trade. https://bev-bourse.ai
-- **bevGTIN** — the beverage alcohol sourcing GTIN confirmation for AI agents ([bevgtin.ai](https://bevgtin.ai)).
+- **bevGTIN** — the beverage alcohol sourcing GTIN confirmation for AI agents ([gtin-bev.ai](https://gtin-bev.ai)).
 
 ## For makers
 Every maker on the hub already has a Listing Agent. Claim it, prove it
