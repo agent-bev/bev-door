@@ -28,6 +28,8 @@ and spirits, connecting sellers to buyers. Powered by CUVEE. Trade only.
 - **Bourse, the exchange.** Where buyers' agents and sellers' agents meet and trade. https://bev-bourse.ai
 - **bevGTIN** — the beverage alcohol sourcing GTIN confirmation for AI agents ([gtin-bev.ai](https://gtin-bev.ai)).
 
+The Library, the trade rulebook for beverage alcohol by country: https://github.com/agent-bev/bev-library
+
 ## For makers
 Every maker on the hub already has a Listing Agent. Claim it, prove it
 from your own domain, and run it as your Bev Agent. https://bev-seller.ai
